@@ -41,7 +41,8 @@ section, summary, time, mark, audio, video {
 
 html, body {
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
-	background-image: -webkit-linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
+	background-image: url("bg.png");
+	background-size: cover;
 	min-height: 100%;
 	font-family: 'Catamaran';
 	color: #fff !important
@@ -311,7 +312,7 @@ input::-moz-focus-inner {
 				}
 			}
 		.wrapper.style2 {
-			background-color: #5052b5
+			background-color: #6c091f
 		}
 		
 		.wrapper.fullscreen {
