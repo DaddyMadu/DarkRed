@@ -6,7 +6,7 @@
             "repo": "https://github.com/DaddyMadu/DarkRed/tree/master",
             "zip": "https://github.com/DaddyMadu/DarkRed/archive/master.zip",
             "summary": "Custom DarkRed color based on the Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
-            "version": "3.2.4",
+            "version": "3.2.3",
             "image": "https://raw.githubusercontent.com/DaddyMadu/DarkRed/master/preview.jpg"
         }
     }
